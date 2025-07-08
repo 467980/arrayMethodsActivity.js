@@ -31,22 +31,3 @@ console.log("After insert:", months);
 months.splice(4, 1, "May");
 console.log("After replace:", months);
 
-Explain the
-
-
-arr1.concat(arr2)
-
-fruits.push("Kiwi");
-
-array1.unshift(4, 5);
-
-fruits.pop();
-
-array2.shift();
-
-fruits.sort();
-
-let slicedFruits = fruits.slice(1, 3);
-
-months.splice(1, 0, "Feb");
-
